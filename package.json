@@ -20,5 +20,8 @@
   "homepage": "https://github.com/RolandIT/Szarka-package#readme",
   "devDependencies": {
     "mocha": "^6.2.2"
+  },
+  "dependencies": {
+    "matosalko-package": "git+https://github.com/matosalko/matosalko-package.git"
   }
 }
