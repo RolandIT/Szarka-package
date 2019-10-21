@@ -1,0 +1,24 @@
+{
+  "name": "package",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --color test/index.spec.test.js",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RolandIT/Szarka-package.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RolandIT/Szarka-package/issues"
+  },
+  "homepage": "https://github.com/RolandIT/Szarka-package#readme",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
